@@ -1,0 +1,14 @@
+numero1 = float(input("Digite o primeiro número: "))
+numero2 = float(input("Digite o segundo número: "))
+soma = numero1 + numero2
+print(f"{numero1} + {numero2} = {soma}")
+subtracao = numero1 - numero2
+print(f"{numero1} - {numero2} = {subtracao}")
+multiplicacao = numero1 * numero2
+print(f"{numero1} * {numero2} = {multiplicacao}")
+divisao = numero1 / numero2
+print(f"{numero1} / {numero2} = {divisao}")
+potencia = numero1 ** numero2
+print(f"{numero1} ** {numero2} = {potencia}")
+resto = numero1 % numero2
+print(f"{numero1} % {numero2} = {resto}")
